@@ -2,6 +2,10 @@
 
 ![icon](icon.png)
 
+## Downloads
+
+Download the latest version from the [releases](https://github.com/beet/text_case_tools/releases) page.
+
 ## Snake Case
 
 Keyword: `ssnake`
